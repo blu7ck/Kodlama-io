@@ -63,3 +63,22 @@
 >Classlar ve önceki teknikler üzerine ek getters & setters kullanıldı.
 > 
 > _Ve evet gerçekten omnitrix aklıma geldi._
+
+---
+
+### [sub10](https://github.com/blu7ck/Kodlama-io/tree/homework/src/sub10)
+>Ödev 3
+
+* kodlama.io web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs bölümlerini katmanlı mimaride kodlamak istiyoruz.
+
+* Önceki derste yaptığımız tekniklerle hem jdbc hem de hibernate üzerinde yazmış gibi simüle ediniz.
+
+* Çoklu loglama yapısını simule ediniz.
+
+> * Aşağıdaki isterleri gerçekleştiriniz.
+  *  Kurs ismi tekrar edemez
+   * Kategori ismi tekrar edemez
+  *  Bir kursun fiyatı 0 dan küçük olamaz
+
+**_Database özelliklerini ilerleyen ödevlerde ekleyecek biçimde bıraktım projeyi_
+
