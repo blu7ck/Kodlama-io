@@ -80,5 +80,5 @@
    * Kategori ismi tekrar edemez
   *  Bir kursun fiyatı 0 dan küçük olamaz
 
-**_Database özelliklerini ilerleyen ödevlerde ekleyecek biçimde bıraktım projeyi_
+**_Database özelliklerini ilerleyen ödevlerde ekleyecek biçimde bıraktım. Projeyi birkaç farklı biçimde oluşturmak mümkündü, en kolayıma gelen yöntem buydu :)_
 
